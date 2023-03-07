@@ -1,0 +1,2 @@
+# gordinx
+vivendo
